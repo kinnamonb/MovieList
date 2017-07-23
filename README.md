@@ -8,4 +8,8 @@ MovieList is a simple python application that lists my favorite movies and allow
 
 ## Usage
 
+## Todo
+
+* Write README documentation
+
 ## License
